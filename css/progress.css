@@ -63,3 +63,8 @@
         width:  566px;
     }
 }
+@media (max-width:  412px) {
+    .progress {
+        width:  412px;
+    }
+}
